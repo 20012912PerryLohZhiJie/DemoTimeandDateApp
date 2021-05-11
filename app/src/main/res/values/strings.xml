@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Time and Date App</string>
+    <string name="display_date">Button</string>
+    <string name="display_time">Button</string>
+    <string name="discount">Discount</string>
+    <string name="check">check</string>
+</resources>
